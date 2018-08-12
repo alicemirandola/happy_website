@@ -1,3 +1,6 @@
 ## Happy Website Readme
 
-This is an happy Website
+This is a website, it is awesome and it is HAPPY!
+
+Owner: Alice
+Collabs: Marco
